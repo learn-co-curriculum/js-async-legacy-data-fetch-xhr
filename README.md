@@ -26,7 +26,7 @@ let xhr = new XMLHttpRequest();
 ```
 
 It might be surprising that the class that makes these JSON requests is called
-an `XMLHttpRequest`. When `XMLHttpRequest` was creatd, XML was a very popular
+an `XMLHttpRequest`. When `XMLHttpRequest` was created, XML was a very popular
 serialization format. JSON has, since, become more popular.
 
 Great, so now we have an instances of `XMLHttpRequest`. We need to configure it
@@ -93,4 +93,3 @@ to get data using XHR, but it does take quite a bit of setup.
 With a knowledge of binding events and creating new instances from classes in
 JavaScript, you should be able to examine and read any legacy `XMLHttpRequest`
 code you see.
-
