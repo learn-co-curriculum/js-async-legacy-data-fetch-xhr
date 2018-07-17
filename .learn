@@ -1,6 +1,7 @@
 tags:
-  - bundler
-  - introduction
+  - xhr
+  - async
+  - events
 languages:
-  - ruby
-resources: 2
+  - javascript
+resources: 0
